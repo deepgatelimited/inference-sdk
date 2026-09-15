@@ -1,0 +1,4 @@
+# The model for your own keyword, fetched from the platform (README.md).
+deepgate_model.h
+model.h
+libmodel.a
